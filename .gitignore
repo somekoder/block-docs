@@ -8,3 +8,7 @@
 /dataSources.local.xml
 
 node_modules
+
+.docusaurus/
+
+build/
